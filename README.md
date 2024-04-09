@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ede0b7d5-e78a-4bef-bb84-406503a7fbd2"/>
+<img width=100% bottom=50px src="[https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ede0b7d5-e78a-4bef-bb84-406503a7fbd2](https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/c4792869-dc26-4852-aa06-c81c7489c169)"/>
 <br>
 <br> 
 
