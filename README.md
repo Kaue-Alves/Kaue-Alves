@@ -72,15 +72,14 @@
 
 </div>
 
-
 <div align="center">
   
 <br>
 <br>
 <br>
 <br>
-
-<p align="left"><b>Contador de Visitantes: </b></p> 
+<hr>
+<h3 align="left"><b>Contador de Visitantes: </b></h3> 
   
 <p align="left"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaue-Alves&s=40&c=176bd9&bg=00000000&no=4&ff=digii&tb=Visitantes%3A+&ta=" /></p> 
 <br>
