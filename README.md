@@ -15,11 +15,12 @@
 
 </div>
 
-<h3 align="left">Minhas redes sociais:</h3>
+<h3 align="center">Entre em contato:</h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/kau%C3%AA-alves-silva-2122b8267/" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/51d44c13-dbb5-4e74-ba4e-ccdf630efe2d" alt="Kauê Alves Silva" height="40" width="40" /></a>
-<a href="https://www.instagram.com/kalves_s_/" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/2ebf3661-0139-46ab-b6d0-5d1a4eb6f28a" alt="@Kalves_s_" height="40" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/kau%C3%AA-alves-silva-2122b8267/" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/d098a26c-6fee-43ec-8cc1-86444ae0a92f" alt="Kauê Alves Silva" height="40" width="40" /></a>
+<a href="https://www.instagram.com/kalves_s_/" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/e74cf7f6-cdd6-431f-beb1-934c39b4238d" alt="@Kalves_s_" height="40" width="40" /></a>
+<a href="mailto:akaue325@gmail.com" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ddeba5ad-63da-40c4-90c2-25e4ccc1aae0" alt="akaue325@gmail.com" height="40" width="40" /></a>
 </p>
 <hr>
 <br>
