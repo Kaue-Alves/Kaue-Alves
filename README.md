@@ -18,9 +18,8 @@
 <h3 align="left">Minhas redes sociais:</h3>
 
 <p align="left">
-<a href="https://twitter.com/pruthvirajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pruthvirajjad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pruthviraj-jadhav-805a9a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthviraj jadhav" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pruthvirajjadhav1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pruthvirajjadhav1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kau%C3%AA-alves-silva-2122b8267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthviraj jadhav" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kalves_s_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pruthvirajjadhav1" height="30" width="40" /></a>
 </p>
 <hr>
 <br>
