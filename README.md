@@ -48,9 +48,9 @@
 
 <div align="left"> 
 
-<img align="left"  height="64" width="64" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ac6f6fa0-8136-4e47-b040-449a0578fed4" alt="JavaScript">
+<img align="left"  height="54" width="54" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ac6f6fa0-8136-4e47-b040-449a0578fed4" alt="JavaScript">
 
-<img align="left"  height="64" width="64" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/b1ac56c2-c21f-4446-b598-220e1c963022">
+<img align="left"  height="54" width="54" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/b1ac56c2-c21f-4446-b598-220e1c963022">
 
 </div>
 
