@@ -48,9 +48,9 @@
 
 <div align="left"> 
 
-<img align="left"  height="54" width="54" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ac6f6fa0-8136-4e47-b040-449a0578fed4" alt="JavaScript">
+<img align="left"  height="50" width="50" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ac6f6fa0-8136-4e47-b040-449a0578fed4" alt="JavaScript">
 
-<img align="left"  height="54" width="54" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/b1ac56c2-c21f-4446-b598-220e1c963022">
+<img align="left"  height="50" width="50" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/b1ac56c2-c21f-4446-b598-220e1c963022">
 
 </div>
 
@@ -61,11 +61,6 @@
 <br>
 <br>
 <hr>
-<h3 align="left"><b>Contador de Visitantes: </b></h3> 
-  
-<p align="left"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FKaue-Alves&s=40&c=176bd9&bg=00000000&no=4&ff=digii&tb=Visitantes%3A+&ta=" /></p> 
-<br>
-</div>
 
 <br>
 <br> 
