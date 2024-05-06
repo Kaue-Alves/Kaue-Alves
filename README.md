@@ -10,68 +10,40 @@
    <img align="right" widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Alves&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div style="display: inline_block"><br>
-   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />   
-   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   
+
+##
+
+<div style="display: inline_block"><h3>Principais Habilidades / Main Skils:</h3>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD744" />
 </div>
-<hr> ---------------------------------------------------------------
-<h3 align="center">Entre em contato:</h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/kau%C3%AA-alves-silva-2122b8267/" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/d098a26c-6fee-43ec-8cc1-86444ae0a92f" alt="Kauê Alves Silva" height="40" width="40" /></a>
-<a href="https://www.instagram.com/kalves_s_/" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/e74cf7f6-cdd6-431f-beb1-934c39b4238d" alt="@Kalves_s_" height="40" width="40" /></a>
-<a href="mailto:akaue325@gmail.com" target="blank"><img align="center" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ddeba5ad-63da-40c4-90c2-25e4ccc1aae0" alt="akaue325@gmail.com" height="40" width="40" /></a>
-</p>
-<hr>
-<br>
+##
 
-<h3 align="left">Minhas habilidades:</h3>
-<div align="left"> 
-<img align="left" height="64" width="64" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/480987e7-93c5-4524-bc42-fbbf0b81dc32" alt="html">
+<div style="display: inline_block"><h3>Ferramentas / Tools:</h3>
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
-<img align="left" height="64" width="64" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ab6b4b8f-f051-4229-95a2-90dab9fb0fb7" alt="css">
+##
 
-<img align="left"  height="64" width="64" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ac6f6fa0-8136-4e47-b040-449a0578fed4" alt="JavaScript">
+<div style="display: inline_block"><h3>Entre em contato:</h3>
+   <a href="https://www.instagram.com/kalves_s_/"><img href="google.com" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/kau%C3%AA-alves-silva-2122b8267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="mailto:akaue325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://replit.com/@akaue325"><img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white"></a>
+</div>
 
+##
+
+<div style="display: inline_block"><h3>Estudando no momento:</h3>
+   <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 <br>
 <br> 
-<br>
-<br>
-<br>
-<br> 
-
-
-<h3 align="left"> Estudando no momento: </h3>
-
-
-<div align="left"> 
-
-<img align="left"  height="50" width="50" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/ac6f6fa0-8136-4e47-b040-449a0578fed4" alt="JavaScript">
-
-<img align="left"  height="50" width="50" src="https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/b1ac56c2-c21f-4446-b598-220e1c963022">
-
-</div>
-
-<div align="center">
-  
-<br>
-<br>
-<br>
-<br>
-<hr>
-
 <br>
 <br> 
 ![Snake animation](https://github.com/Kaue-Alves/Kaue-Alves/blob/output/github-contribution-grid-snake.svg)
