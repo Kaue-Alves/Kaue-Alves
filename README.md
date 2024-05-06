@@ -1,19 +1,22 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/126356237/e4608771-bfef-47c6-9b4e-0a1af2b5deda"/>
-<br>
-<br> 
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kau%C3%AA+Alves!;Tenho+18+anos.;Eu+sou+um+desenvolvedor+de+software.;E+sou+do+Brasil!)](https://git.io/typing-svg)
 
 
 <br>
 <br>
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Kaue-Alves?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan) 
-
+<div width="100%">
+   <img widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Alves&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   <img align="right" widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Alves&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">Entre em contato:</h3>
 
@@ -64,11 +67,6 @@
 
 <br>
 <br> 
+![Snake animation](https://github.com/Kaue-Alves/Kaue-Alves/blob/output/github-contribution-grid-snake.svg)
 
-
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/126356237/3e1b63c3-9799-463c-8037-f5447c32fd69"/>
-
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer"/>
