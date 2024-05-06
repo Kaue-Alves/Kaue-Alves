@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F1E05A&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kau%C3%AA+Alves!;Tenho+18+anos.;Eu+sou+um+desenvolvedor+de+software.;E+sou+do+Brasil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=F1E05A&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kau%C3%AA+Alves!;Tenho+18+anos.;Eu+sou+um+desenvolvedor+de+software.;E+sou+do+Brasil!)](https://git.io/typing-svg)
 
 
 <br>
@@ -17,7 +17,14 @@
 <br>
 <br>
 <br>
-
+<div style="display: inline_block"><br>
+   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />   
+   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img heigh="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+   
+</div>
+<hr> ---------------------------------------------------------------
 <h3 align="center">Entre em contato:</h3>
 
 <p align="center">
