@@ -47,6 +47,13 @@
 <br>
 <br> 
 
-![snake gif](https://github.com/Kaue-Alves/Kaue-Alves/blob/output/github-contribution-grid-snake-dark.svg)
+<div style="position: relative; text-align: center;">
+   
+  ![dino_dimensionado](https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/38866b6e-6b57-4686-b662-00879359fd65.gif)
+   
+</div>
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F1E05A&height=180&section=footer"/>
