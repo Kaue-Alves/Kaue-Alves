@@ -31,7 +31,7 @@
 
 <div style="display: inline_block"><h3>Entre em contato:</h3>
    <a href="https://www.instagram.com/kalves_s_/"><img href="google.com" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/kau%C3%AA-alves-silva-2122b8267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="www.linkedin.com/in/kauê-alves-2122b8267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:akaue325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://replit.com/@akaue325"><img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white"></a>
 </div>
@@ -47,7 +47,7 @@
 <br>
 <br> 
 
-<div style="position: relative; text-align: center;">
+<div width="100%" align="center">
    
   ![dino_dimensionado](https://github.com/Kaue-Alves/Kaue-Alves/assets/126356237/38866b6e-6b57-4686-b662-00879359fd65.gif)
    
