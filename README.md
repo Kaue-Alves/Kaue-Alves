@@ -29,7 +29,7 @@
 
 ##
 
-<div style="display: inline_block"><h3>Entre em contato:</h3>
+<div style="display: inline_block"><h3>Entre em contato / Contact Me:</h3>
    <a href="https://www.instagram.com/kalves_s_/"><img href="google.com" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/kau%C3%AA-alves-2122b8267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:akaue325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -38,7 +38,7 @@
 
 ##
 
-<div style="display: inline_block"><h3>Estudando no momento:</h3>
+<div style="display: inline_block"><h3>Estudando no momento / Studying in the moment:</h3>
    <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
