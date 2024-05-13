@@ -30,7 +30,7 @@
 ##
 
 <div style="display: inline_block"><h3>Entre em contato / Contact Me:</h3>
-   <a href="https://www.instagram.com/kalves_s_/"><img href="google.com" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.instagram.com/kalves_s_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/kau%C3%AA-alves-2122b8267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:akaue325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://replit.com/@akaue325"><img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white"></a>
