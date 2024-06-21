@@ -40,6 +40,7 @@
 
 <div style="display: inline_block"><h3>Estudando no momento / Studying in the moment:</h3>
    <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+   <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 <br>
