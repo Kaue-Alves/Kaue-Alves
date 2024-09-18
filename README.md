@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F1E05A&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8810F9&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=3000&pause=500&color=F1E05A&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kau%C3%AA+Alves!;Tenho+18+anos.;Eu+sou+um+desenvolvedor+de+software.;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=3000&pause=500&color=BDFFFD&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Kau%C3%AA+Alves!;Bem-vindo(a)+ao+meu+perfil!;...;...)](https://git.io/typing-svg)
 
 
 <br>
 <br>
 <div width="100%">
-   <img widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Alves&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img align="right" widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Alves&layout=compact&langs_count=16&theme=great-gatsby"/>
+   <img widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Alves&theme=blue_navy&show_icons=true&count_private=true"/>
+   <img align="right" widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Alves&layout=compact&langs_count=16&theme=blue_navy&count_private=true"/>
 </div>
 <br>
 
@@ -33,13 +33,12 @@
    <a href="https://www.instagram.com/kalves_s_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/kau%C3%AA-alves-2122b8267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:akaue325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://replit.com/@akaue325"><img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white"></a>
 </div>
 
 ##
 
 <div style="display: inline_block"><h3>Estudando no momento / Studying in the moment:</h3>
-   <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+   <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
    <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
@@ -57,4 +56,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F1E05A&height=180&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8810F9&height=180&section=footer"/>
