@@ -17,6 +17,9 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/TypeScript-007ACD?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img src="https://img.shields.io/badge/Tailwindcss-3DB9FD?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD744" />
 </div>
 
@@ -25,6 +28,8 @@
 <div style="display: inline_block"><h3>Ferramentas / Tools:</h3>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
 ##
@@ -38,8 +43,9 @@
 ##
 
 <div style="display: inline_block"><h3>Estudando no momento / Studying in the moment:</h3>
-   <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
    <img height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+   <img height="40px" width="50px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+
 </div>
 
 <br>
