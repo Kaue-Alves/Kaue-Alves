@@ -5,11 +5,6 @@
 
 <br>
 <br>
-<div width="100%">
-   <img widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue-Alves&theme=blue_navy&show_icons=true&count_private=true"/>
-   <img align="right" widht="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Alves&layout=compact&langs_count=16&theme=blue_navy&count_private=true"/>
-</div>
-<br>
 
 ##
 
